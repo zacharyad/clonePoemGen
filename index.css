@@ -1,0 +1,20 @@
+.wrapper{
+    margin: 20px 200px;
+}
+
+#textArea {
+    margin: 20px auto;
+    width: 100%;
+    height: 200px;
+}
+
+#submit {
+    margin: 20px auto;
+    width: 100%
+}
+
+.card {
+    margin: 20px auto;
+    width: 100%
+}
+
